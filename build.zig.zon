@@ -1,0 +1,17 @@
+.{
+    .name = .zepoch,
+    .version = "1.0.0",
+    .fingerprint = 0x6fa48ab65413e7ff,
+    .minimum_zig_version = "0.17.0-dev.1387+01b60634c",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "assets",
+        "examples",
+        "src",
+        "LICENSE",
+        "README.md",
+        "README-zh.md",
+    },
+}
